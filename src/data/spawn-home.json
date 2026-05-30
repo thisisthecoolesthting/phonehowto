@@ -1,0 +1,81 @@
+{
+  "brand": {
+    "shortName": "PhoneHowTo",
+    "fullName": "PhoneHowTo",
+    "taglineShort": "Clear how-to answers for every phone you own.",
+    "identity": {
+      "palette": {
+        "primary": "#2563EB",
+        "accent": "#F97316",
+        "cream": "#FAF5EF",
+        "ink": "#0F172A",
+        "secondary": "#1E40AF",
+        "surface": "#F8FAFC"
+      },
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "",
+        "svgPublicPath": "",
+        "sizeRem": 1.5,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "CELL PHONE HOW-TO",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "persona": {
+    "ymyl": false,
+    "tone": "practical-tester"
+  },
+  "editorial": {
+    "authorSlug": "jordan-reyes",
+    "author_slug": "jordan-reyes",
+    "methodology": [
+      "Every how-to is written against a physical device or the exact OS version named in the title \u2014 we re-check steps after major iOS and One UI updates.",
+      "Screenshots and menu paths use the on-device labels readers will see, not generic Android/iOS jargon.",
+      "Battery and troubleshooting guides list what we ruled out before recommending a reset or repair.",
+      "Review articles disclose purchase source, test duration, and carrier/SIM context.",
+      "Affiliate links are limited to cases, chargers, and storage tools we actually use in testing.",
+      "Reader corrections on wrong menu paths are fixed within 72 hours with a dated changelog line."
+    ],
+    "ymyl": false
+  },
+  "newsletter": {
+    "title": "The PhoneHowTo weekly",
+    "subtitle": "Practical picks and straight answers from PhoneHowTo, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@phonehowto.org",
+  "defaultAuthorSlug": "jordan-phonehowto",
+  "defaultMetaDescription": "Model-specific how-tos for iPhone, Galaxy, Pixel, and Motorola. Screenshots, backups, battery drain, storage full, frozen screen, transfer to a new phone \u2014 no fluff, no 12-minute intro.",
+  "homepage": {
+    "eyebrow": "Cell phone how-to guides",
+    "h1": "The phone question you Googled at midnight \u2014 answered in plain steps.",
+    "subhead": "Model-specific how-tos for iPhone, Galaxy, Pixel, and Motorola. Screenshots, backups, battery drain, storage full, frozen screen, transfer to a new phone \u2014 no fluff, no 12-minute intro.",
+    "ctaPrimaryLabel": "Browse how-to guides",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "How we test phones",
+    "ctaSecondaryHref": "/methodology",
+    "trustLine": "We buy or borrow phones at retail. Affiliate links only on accessories we would use ourselves.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=85"
+  },
+  "about": {
+    "headline": "Why PhoneHowTo exists",
+    "body": "Official support pages bury the answer under menus. YouTube videos take eight minutes to show one setting. PhoneHowTo is the opposite: one search query, one page, numbered steps with the exact menu names for your model. We cover the high-volume how-tos first \u2014 then expand into honest short reviews when a phone is worth calling out."
+  },
+  "analytics": {
+    "ga_measurement_id": "",
+    "ga_property_id": "",
+    "search_console_property": "https://phonehowto.org/"
+  }
+}
