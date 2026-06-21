@@ -41,7 +41,7 @@
     "authorSlug": "jordan-reyes",
     "author_slug": "jordan-reyes",
     "methodology": [
-      "Every how-to is written against a physical device or the exact OS version named in the title \u2014 we re-check steps after major iOS and One UI updates.",
+      "Every how-to is written against a physical device or the exact OS version named in the title — we re-check steps after major iOS and One UI updates.",
       "Screenshots and menu paths use the on-device labels readers will see, not generic Android/iOS jargon.",
       "Battery and troubleshooting guides list what we ruled out before recommending a reset or repair.",
       "Review articles disclose purchase source, test duration, and carrier/SIM context.",
@@ -57,11 +57,11 @@
   },
   "supportEmail": "hello@phonehowto.org",
   "defaultAuthorSlug": "jordan-phonehowto",
-  "defaultMetaDescription": "Model-specific how-tos for iPhone, Galaxy, Pixel, and Motorola. Screenshots, backups, battery drain, storage full, frozen screen, transfer to a new phone \u2014 no fluff, no 12-minute intro.",
+  "defaultMetaDescription": "Model-specific how-tos for iPhone, Galaxy, Pixel, and Motorola. Screenshots, backups, battery drain, storage full, frozen screen, transfer to a new phone — no fluff, no 12-minute intro.",
   "homepage": {
     "eyebrow": "Cell phone how-to guides",
-    "h1": "The phone question you Googled at midnight \u2014 answered in plain steps.",
-    "subhead": "Model-specific how-tos for iPhone, Galaxy, Pixel, and Motorola. Screenshots, backups, battery drain, storage full, frozen screen, transfer to a new phone \u2014 no fluff, no 12-minute intro.",
+    "h1": "The phone question you Googled at midnight — answered in plain steps.",
+    "subhead": "Model-specific how-tos for iPhone, Galaxy, Pixel, and Motorola. Screenshots, backups, battery drain, storage full, frozen screen, transfer to a new phone — no fluff, no 12-minute intro.",
     "ctaPrimaryLabel": "Browse how-to guides",
     "ctaPrimaryHref": "/articles",
     "ctaSecondaryLabel": "How we test phones",
@@ -71,11 +71,11 @@
   },
   "about": {
     "headline": "Why PhoneHowTo exists",
-    "body": "Official support pages bury the answer under menus. YouTube videos take eight minutes to show one setting. PhoneHowTo is the opposite: one search query, one page, numbered steps with the exact menu names for your model. We cover the high-volume how-tos first \u2014 then expand into honest short reviews when a phone is worth calling out."
+    "body": "Official support pages bury the answer under menus. YouTube videos take eight minutes to show one setting. PhoneHowTo is the opposite: one search query, one page, numbered steps with the exact menu names for your model. We cover the high-volume how-tos first — then expand into honest short reviews when a phone is worth calling out."
   },
   "analytics": {
-    "ga_measurement_id": "",
-    "ga_property_id": "",
+    "ga_measurement_id": "G-7LJTVDXCLT",
+    "ga_property_id": "540791364",
     "search_console_property": "https://phonehowto.org/"
   },
   "navigation": [
