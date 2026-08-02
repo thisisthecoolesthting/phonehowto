@@ -4,7 +4,7 @@ metaDescription: "Android devices can slow down for several reasons, including i
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Android devices can slow down for several reasons, including insufficient storage, outdated software, background apps, or even hardware limitations. U"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

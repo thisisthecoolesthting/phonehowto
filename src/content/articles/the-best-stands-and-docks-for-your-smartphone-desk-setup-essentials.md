@@ -4,7 +4,7 @@ metaDescription: "In today’s digital age, smartphones have become central to o
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "In today’s digital age, smartphones have become central to our daily routines, whether for work, entertainment, or staying connected. A dedicated stan"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

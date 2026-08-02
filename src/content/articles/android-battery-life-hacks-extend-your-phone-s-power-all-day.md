@@ -4,7 +4,7 @@ metaDescription: "Your display is the biggest battery drain. Start by reducing b
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Your display is the biggest battery drain. Start by reducing brightness to 50% or lower—most screens remain perfectly readable at this level. Enable a"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

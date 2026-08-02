@@ -4,7 +4,7 @@ metaDescription: "Focus Modes are a powerful iOS feature designed to help you st
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Focus Modes are a powerful iOS feature designed to help you stay on task by filtering notifications and customizing your home screen based on your cur"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

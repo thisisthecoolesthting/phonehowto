@@ -4,7 +4,7 @@ metaDescription: "When it comes to smartphone photography, the debate between iP
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to smartphone photography, the debate between iPhone and Android cameras is never-ending. Both platforms offer exceptional camera system"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

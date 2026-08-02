@@ -4,7 +4,7 @@ metaDescription: "Sharing your Android phone with friends, family, or coworkers 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Sharing your Android phone with friends, family, or coworkers can be convenient, but it also comes with privacy risks. Guest Mode is a built-in featur"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

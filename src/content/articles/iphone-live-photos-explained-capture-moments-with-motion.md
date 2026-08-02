@@ -4,7 +4,7 @@ metaDescription: "iPhone Live Photos is a feature introduced with the iPhone 6s 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "iPhone Live Photos is a feature introduced with the iPhone 6s and later models that allows you to capture more than just a static image. When you take"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

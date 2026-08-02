@@ -4,7 +4,7 @@ metaDescription: "Android Smart Lock is a feature designed to balance convenienc
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Android Smart Lock is a feature designed to balance convenience and security by reducing how often you need to unlock your device. Instead of entering"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

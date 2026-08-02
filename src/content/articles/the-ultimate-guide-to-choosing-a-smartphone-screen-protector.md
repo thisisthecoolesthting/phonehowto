@@ -4,7 +4,7 @@ metaDescription: "Smartphone screens are more durable than ever, but they’re n
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Smartphone screens are more durable than ever, but they’re not invincible. Scratches from keys, drops on pavement, or even fine abrasions from pocket"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

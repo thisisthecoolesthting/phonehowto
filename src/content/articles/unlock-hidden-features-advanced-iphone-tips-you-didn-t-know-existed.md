@@ -4,7 +4,7 @@ metaDescription: "Your iPhone is packed with powerful features, but many remain 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Your iPhone is packed with powerful features, but many remain hidden beneath the surface. Whether you’re a longtime user or new to iOS, these advanced"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

@@ -4,7 +4,7 @@ metaDescription: "iPhone notifications can either keep you productive or overwhe
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "iPhone notifications can either keep you productive or overwhelm your day. With iOS’s powerful customization tools, you can tailor alerts to fit your"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

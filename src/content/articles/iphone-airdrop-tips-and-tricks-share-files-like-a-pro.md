@@ -4,7 +4,7 @@ metaDescription: "AirDrop is one of the most convenient ways to share files betw
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "AirDrop is one of the most convenient ways to share files between Apple devices. Whether you're sending photos, documents, or links, mastering AirDrop"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

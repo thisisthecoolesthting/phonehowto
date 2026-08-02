@@ -4,7 +4,7 @@ metaDescription: "A reliable GPS signal is crucial for navigation, fitness track
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "A reliable GPS signal is crucial for navigation, fitness tracking, ride-sharing, and location-based apps. When your Android device struggles with accu"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

@@ -4,7 +4,7 @@ metaDescription: "Running out of storage on your iPhone can slow down performanc
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Running out of storage on your iPhone can slow down performance, prevent app updates, and make it impossible to take new photos. If you’re seeing the"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

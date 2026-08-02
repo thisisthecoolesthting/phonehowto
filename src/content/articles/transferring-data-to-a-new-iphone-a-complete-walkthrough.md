@@ -4,7 +4,7 @@ metaDescription: "When upgrading to a new iPhone, transferring your data ensures
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When upgrading to a new iPhone, transferring your data ensures you don’t lose important information like contacts, photos, apps, and settings. Whether"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

@@ -4,7 +4,7 @@ metaDescription: "Dark mode is more than just a trendy aesthetic choice—it off
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Dark mode is more than just a trendy aesthetic choice—it offers several practical benefits for smartphone users. By switching to a darker color scheme"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

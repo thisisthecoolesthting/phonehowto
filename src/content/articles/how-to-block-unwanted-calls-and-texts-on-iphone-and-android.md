@@ -4,7 +4,7 @@ metaDescription: "Unwanted calls and texts—whether from telemarketers, scammer
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Unwanted calls and texts—whether from telemarketers, scammers, or unknown numbers—are more than just annoying. They can waste time, compromise privacy"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

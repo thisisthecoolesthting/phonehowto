@@ -4,7 +4,7 @@ metaDescription: "A factory reset restores your Android phone to its original se
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "A factory reset restores your Android phone to its original settings, erasing all personal data, apps, and configurations. It’s a powerful troubleshoo"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

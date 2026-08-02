@@ -4,7 +4,7 @@ metaDescription: "Losing photos, contacts, or important documents because of a l
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Losing photos, contacts, or important documents because of a lost, stolen, or malfunctioning phone can be devastating. Regular backups ensure your dat"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

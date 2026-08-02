@@ -4,7 +4,7 @@ metaDescription: "Using your smartphone for navigation while driving is incredib
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Using your smartphone for navigation while driving is incredibly convenient, but holding your phone in your hand is unsafe—and often illegal. A high-q"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

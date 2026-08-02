@@ -4,7 +4,7 @@ metaDescription: "Android’s greatest strength is its flexibility—unlike othe
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Android’s greatest strength is its flexibility—unlike other operating systems, it lets you tweak almost every aspect of your phone’s look and feel. Wh"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

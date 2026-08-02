@@ -4,7 +4,7 @@ metaDescription: "Smartwatches have become indispensable companions for smartpho
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Smartwatches have become indispensable companions for smartphone users, offering features like fitness tracking, notifications, and even mobile paymen"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

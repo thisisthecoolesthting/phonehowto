@@ -4,7 +4,7 @@ metaDescription: "Switching from iPhone to Android (or vice versa) is common, bu
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Switching from iPhone to Android (or vice versa) is common, but moving photos between ecosystems can be tricky. Whether you're migrating devices, shar"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

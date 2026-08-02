@@ -4,7 +4,7 @@ metaDescription: "Wireless earbuds have become essential for smartphone users, o
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Wireless earbuds have become essential for smartphone users, offering convenience, portability, and decent sound quality without breaking the bank. Wh"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

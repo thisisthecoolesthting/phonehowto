@@ -4,7 +4,7 @@ metaDescription: "Android devices hold sensitive data—banking details, persona
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Android devices hold sensitive data—banking details, personal photos, and login credentials. While Android has robust built-in security, many features"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

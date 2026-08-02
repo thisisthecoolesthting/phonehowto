@@ -4,7 +4,7 @@ metaDescription: "Not all USB-C cables are created equal. If you’ve ever plugg
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Not all USB-C cables are created equal. If you’ve ever plugged in your phone expecting a quick charge only to see 'Charging Slowly,' your cable might"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

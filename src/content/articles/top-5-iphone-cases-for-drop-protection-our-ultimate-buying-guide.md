@@ -4,7 +4,7 @@ metaDescription: "When it comes to protecting your iPhone from accidental drops,
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When it comes to protecting your iPhone from accidental drops, not all cases are created equal. A good drop-proof case should offer a balance of durab"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

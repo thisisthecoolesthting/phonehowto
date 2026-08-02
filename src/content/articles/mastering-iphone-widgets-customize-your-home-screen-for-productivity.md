@@ -4,7 +4,7 @@ metaDescription: "Widgets are one of the most powerful tools on your iPhone for 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Widgets are one of the most powerful tools on your iPhone for streamlining your daily tasks and accessing information at a glance. Unlike traditional"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

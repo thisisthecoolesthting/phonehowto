@@ -4,7 +4,7 @@ metaDescription: "A weak or non-functional Wi-Fi connection on your iPhone can b
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "A weak or non-functional Wi-Fi connection on your iPhone can be frustrating, especially when you rely on it for browsing, streaming, or work. Common i"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

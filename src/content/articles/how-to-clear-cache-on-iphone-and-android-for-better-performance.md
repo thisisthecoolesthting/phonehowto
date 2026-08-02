@@ -4,7 +4,7 @@ metaDescription: "Cache files are temporary data stored by apps and browsers to 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Cache files are temporary data stored by apps and browsers to speed up loading times. Over time, these files accumulate and can slow down your device,"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

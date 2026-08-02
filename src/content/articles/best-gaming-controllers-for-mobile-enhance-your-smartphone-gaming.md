@@ -4,7 +4,7 @@ metaDescription: "Mobile gaming has come a long way, and with the rise of graphi
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Mobile gaming has come a long way, and with the rise of graphically intensive games and cloud gaming services, having a dedicated gaming controller ca"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

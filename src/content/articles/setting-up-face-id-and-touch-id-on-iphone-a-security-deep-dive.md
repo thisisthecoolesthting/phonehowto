@@ -4,7 +4,7 @@ metaDescription: "Apple’s Face ID and Touch ID provide seamless yet secure aut
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Apple’s Face ID and Touch ID provide seamless yet secure authentication for unlocking your iPhone, authorizing payments, and accessing sensitive apps."
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

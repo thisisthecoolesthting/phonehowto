@@ -4,7 +4,7 @@ metaDescription: "Your iPhone holds a wealth of personal information, from messa
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Your iPhone holds a wealth of personal information, from messages and photos to financial details and location data. Protecting this data is crucial i"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

@@ -4,7 +4,7 @@ metaDescription: "When an app fails to download from the App Store, the problem 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "When an app fails to download from the App Store, the problem can stem from various causes, including connectivity issues, Apple ID errors, or device"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

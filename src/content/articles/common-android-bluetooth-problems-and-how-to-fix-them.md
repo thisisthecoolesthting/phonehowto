@@ -4,7 +4,7 @@ metaDescription: "Bluetooth is essential for wireless audio, file transfers, and
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Bluetooth is essential for wireless audio, file transfers, and connecting peripherals. However, Android users often face connectivity issues, pairing"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

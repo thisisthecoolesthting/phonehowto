@@ -4,7 +4,7 @@ metaDescription: "Android Developer Options are a hidden set of features designe
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Android Developer Options are a hidden set of features designed for app developers and advanced users. These options allow you to tweak your phone’s p"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

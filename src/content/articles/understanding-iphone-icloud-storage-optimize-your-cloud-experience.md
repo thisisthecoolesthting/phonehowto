@@ -4,7 +4,7 @@ metaDescription: "iCloud is an essential part of the iPhone ecosystem, seamlessl
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "iCloud is an essential part of the iPhone ecosystem, seamlessly syncing photos, documents, backups, and more across devices. However, managing storage"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

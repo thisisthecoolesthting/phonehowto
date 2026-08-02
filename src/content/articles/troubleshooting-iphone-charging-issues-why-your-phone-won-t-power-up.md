@@ -4,7 +4,7 @@ metaDescription: "A dead iPhone can be frustrating, especially when you need it 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "A dead iPhone can be frustrating, especially when you need it most. Charging issues can stem from software glitches, faulty cables, or even hardware p"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

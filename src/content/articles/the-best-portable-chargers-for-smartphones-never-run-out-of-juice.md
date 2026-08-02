@@ -4,7 +4,7 @@ metaDescription: "In today’s fast-paced world, running out of battery can feel
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "In today’s fast-paced world, running out of battery can feel like a disaster. Whether you're traveling, working remotely, or just out for the day, a r"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

@@ -4,7 +4,7 @@ metaDescription: "Screen recording is a useful feature for creating tutorials, c
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Screen recording is a useful feature for creating tutorials, capturing gameplay, or troubleshooting issues on your smartphone. Both iPhone and Android"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

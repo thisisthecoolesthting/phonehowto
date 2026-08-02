@@ -4,7 +4,7 @@ metaDescription: "In today’s hyper-connected world, managing screen time is es
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "In today’s hyper-connected world, managing screen time is essential for maintaining focus, reducing stress, and improving overall well-being. Android’"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

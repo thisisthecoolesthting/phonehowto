@@ -4,7 +4,7 @@ metaDescription: "Taking professional-quality photos with your iPhone is easier 
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Taking professional-quality photos with your iPhone is easier than ever, but the right accessories can elevate your shots from good to breathtaking. W"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

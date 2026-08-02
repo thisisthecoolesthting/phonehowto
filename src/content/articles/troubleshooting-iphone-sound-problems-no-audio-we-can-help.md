@@ -4,7 +4,7 @@ metaDescription: "If your iPhone suddenly has no sound, it can be frustrating—
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "If your iPhone suddenly has no sound, it can be frustrating—especially when you rely on it for calls, music, or videos. This guide covers common cause"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general

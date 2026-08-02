@@ -4,7 +4,7 @@ metaDescription: "Android permissions are a critical part of how apps interact w
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
 excerpt: "Android permissions are a critical part of how apps interact with your device and your data. They ensure apps can access the features and information"
-author: _default
+author: dana-wolff
 tags: []
 site: phonehowto
 topic: general
